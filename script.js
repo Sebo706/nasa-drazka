@@ -5,12 +5,12 @@ const MANUAL_ATTENDANCE = [
 ];
 
 const GALLERY_PHOTOS = [
-  { file: "images/gallery/IMG_20260607_132751.jpg", alt: "Fotka zo stretnutia Naša drážka 1", caption: "Fotka zo stretnutia 1" },
-  { file: "images/gallery/IMG_20260607_141034.jpg", alt: "Fotka zo stretnutia Naša drážka 2", caption: "Fotka zo stretnutia 2" },
-  { file: "images/gallery/IMG_20260607_142107.jpg", alt: "Fotka zo stretnutia Naša drážka 3", caption: "Fotka zo stretnutia 3" },
-  { file: "images/gallery/IMG_20260607_142117.jpg", alt: "Fotka zo stretnutia Naša drážka 4", caption: "Fotka zo stretnutia 4" },
-  { file: "images/gallery/IMG_20260607_143400.jpg", alt: "Fotka zo stretnutia Naša drážka 5", caption: "Fotka zo stretnutia 5" },
-  { file: "images/gallery/IMG_20260607_143513.jpg", alt: "Fotka zo stretnutia Naša drážka 6", caption: "Fotka zo stretnutia 6" }
+  { file: "IMG_20260607_132751.jpg", alt: "Fotka zo stretnutia Naša drážka 1", caption: "Fotka zo stretnutia 1" },
+  { file: "IMG_20260607_141034.jpg", alt: "Fotka zo stretnutia Naša drážka 2", caption: "Fotka zo stretnutia 2" },
+  { file: "IMG_20260607_142107.jpg", alt: "Fotka zo stretnutia Naša drážka 3", caption: "Fotka zo stretnutia 3" },
+  { file: "IMG_20260607_142117.jpg", alt: "Fotka zo stretnutia Naša drážka 4", caption: "Fotka zo stretnutia 4" },
+  { file: "IMG_20260607_143400.jpg", alt: "Fotka zo stretnutia Naša drážka 5", caption: "Fotka zo stretnutia 5" },
+  { file: "IMG_20260607_143513.jpg", alt: "Fotka zo stretnutia Naša drážka 6", caption: "Fotka zo stretnutia 6" }
 ];
 
 const countdownElements = {
